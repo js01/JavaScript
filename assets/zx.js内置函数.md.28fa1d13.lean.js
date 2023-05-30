@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as s,O as t}from"./chunks/framework.56b4393c.js";const m=JSON.parse('{"title":"zx.js内置函数","description":"","frontmatter":{},"headers":[],"relativePath":"zx.js内置函数.md","filePath":"zx.js内置函数.md"}'),n={name:"zx.js内置函数.md"},o=t("",14),l=[o];function c(i,p,r,h,d,u){return e(),s("div",null,l)}const x=a(n,[["render",c]]);export{m as __pageData,x as default};
