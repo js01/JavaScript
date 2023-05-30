@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o,O as a}from"./chunks/framework.4afe7240.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ES6标准和新增特性.md","filePath":"ES6标准和新增特性.md"}'),r={name:"ES6标准和新增特性.md"},s=a("",6),i=[s];function c(p,n,l,d,S,_){return e(),o("div",null,i)}const h=t(r,[["render",c]]);export{g as __pageData,h as default};

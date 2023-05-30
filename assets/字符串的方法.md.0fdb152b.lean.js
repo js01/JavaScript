@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as l,O as n}from"./chunks/framework.4afe7240.js";const i=JSON.parse('{"title":"字符串的方法","description":"","frontmatter":{},"headers":[],"relativePath":"字符串的方法.md","filePath":"字符串的方法.md"}'),o={name:"字符串的方法.md"},p=n("",25),t=[p];function e(c,r,y,D,A,F){return a(),l("div",null,t)}const d=s(o,[["render",e]]);export{i as __pageData,d as default};
