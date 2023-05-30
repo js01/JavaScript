@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.56b4393c.js";const i=JSON.parse('{"title":"集合类型","description":"","frontmatter":{},"headers":[],"relativePath":"集合类型.md","filePath":"集合类型.md"}'),p={name:"集合类型.md"},o=l("",18),e=[o];function t(c,r,C,A,y,D){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};
