@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as o}from"./chunks/framework.56b4393c.js";const i=JSON.parse('{"title":"对象属性的读取和赋值","description":"","frontmatter":{},"headers":[],"relativePath":"对象属性的读取和赋值.md","filePath":"对象属性的读取和赋值.md"}'),l={name:"对象属性的读取和赋值.md"},p=o("",6),e=[p];function t(c,r,D,F,y,C){return a(),n("div",null,e)}const _=s(l,[["render",t]]);export{i as __pageData,_ as default};

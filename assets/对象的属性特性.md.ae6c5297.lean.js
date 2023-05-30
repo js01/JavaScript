@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.56b4393c.js";const A=JSON.parse('{"title":"对象的属性特性","description":"","frontmatter":{},"headers":[],"relativePath":"对象的属性特性.md","filePath":"对象的属性特性.md"}'),o={name:"对象的属性特性.md"},p=l("",21),e=[p];function t(c,r,D,y,F,C){return a(),n("div",null,e)}const b=s(o,[["render",t]]);export{A as __pageData,b as default};
