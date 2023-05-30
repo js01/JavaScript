@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.56b4393c.js";const F=JSON.parse('{"title":"函数的暂时性死区","description":"","frontmatter":{},"headers":[],"relativePath":"暂时性死区.md","filePath":"暂时性死区.md"}'),o={name:"暂时性死区.md"},p=l("",8),t=[p];function e(c,r,y,i,D,C){return a(),n("div",null,t)}const _=s(o,[["render",e]]);export{F as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.56b4393c.js";const i=JSON.parse('{"title":"箭头函数","description":"","frontmatter":{},"headers":[],"relativePath":"箭头函数.md","filePath":"箭头函数.md"}'),o={name:"箭头函数.md"},p=l("",12),t=[p];function e(c,r,y,C,A,D){return a(),n("div",null,t)}const f=s(o,[["render",e]]);export{i as __pageData,f as default};

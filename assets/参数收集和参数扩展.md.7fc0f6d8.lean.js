@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as l,O as n}from"./chunks/framework.56b4393c.js";const i=JSON.parse('{"title":"参数收集和参数扩展","description":"","frontmatter":{},"headers":[],"relativePath":"参数收集和参数扩展.md","filePath":"参数收集和参数扩展.md"}'),p={name:"参数收集和参数扩展.md"},o=n("",18),e=[o];function t(c,r,C,y,D,F){return a(),l("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};
