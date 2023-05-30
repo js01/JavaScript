@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as l,O as n}from"./chunks/framework.4afe7240.js";const D=JSON.parse('{"title":"布尔类型","description":"","frontmatter":{},"headers":[],"relativePath":"布尔类型.md","filePath":"布尔类型.md"}'),o={name:"布尔类型.md"},p=n("",11),e=[p];function t(c,r,y,i,A,F){return a(),l("div",null,e)}const d=s(o,[["render",t]]);export{D as __pageData,d as default};

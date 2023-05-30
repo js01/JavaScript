@@ -1,1 +1,0 @@
-import{_ as t,o,c as e,O as a}from"./chunks/framework.4afe7240.js";const q=JSON.parse('{"title":"typeof 操作符","description":"","frontmatter":{},"headers":[],"relativePath":"typeof操作符.md","filePath":"typeof操作符.md"}'),i={name:"typeof操作符.md"},l=a("",3),_=[l];function n(r,s,u,p,c,f){return o(),e("div",null,_)}const m=t(i,[["render",n]]);export{q as __pageData,m as default};

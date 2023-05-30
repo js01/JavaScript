@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as o}from"./chunks/framework.56b4393c.js";const C=JSON.parse('{"title":"可选链","description":"","frontmatter":{},"headers":[],"relativePath":"可选链.md","filePath":"可选链.md"}'),l={name:"可选链.md"},p=o("",4),e=[p];function t(c,r,y,D,i,F){return a(),n("div",null,e)}const d=s(l,[["render",t]]);export{C as __pageData,d as default};

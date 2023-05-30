@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as l,O as o}from"./chunks/framework.4afe7240.js";const A=JSON.parse('{"title":"字符串类型基础","description":"","frontmatter":{},"headers":[],"relativePath":"字符串类型基础.md","filePath":"字符串类型基础.md"}'),n={name:"字符串类型基础.md"},p=o("",15),e=[p];function t(c,r,D,y,i,F){return a(),l("div",null,e)}const d=s(n,[["render",t]]);export{A as __pageData,d as default};

@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,O as l}from"./chunks/framework.4afe7240.js";const i=JSON.parse('{"title":"字符串模板字面量","description":"","frontmatter":{},"headers":[],"relativePath":"字符串模板字面量.md","filePath":"字符串模板字面量.md"}'),o={name:"字符串模板字面量.md"},p=l("",5),e=[p];function t(c,r,y,D,C,A){return a(),n("div",null,e)}const _=s(o,[["render",t]]);export{i as __pageData,_ as default};
