@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.56b4393c.js";const i=JSON.parse('{"title":"代理","description":"","frontmatter":{},"headers":[],"relativePath":"代理.md","filePath":"代理.md"}'),o={name:"代理.md"},p=l("",12),e=[p];function t(c,r,y,D,F,A){return a(),n("div",null,e)}const d=s(o,[["render",t]]);export{i as __pageData,d as default};

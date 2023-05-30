@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.56b4393c.js";const C=JSON.parse('{"title":"迭代器和生成器","description":"","frontmatter":{},"headers":[],"relativePath":"迭代器和生成器.md","filePath":"迭代器和生成器.md"}'),o={name:"迭代器和生成器.md"},p=l("",18),e=[p];function t(c,r,y,D,i,F){return a(),n("div",null,e)}const d=s(o,[["render",t]]);export{C as __pageData,d as default};
