@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.56b4393c.js";const i=JSON.parse('{"title":"数组的本质也是对象","description":"","frontmatter":{},"headers":[],"relativePath":"数组的本质也是对象.md","filePath":"数组的本质也是对象.md"}'),o={name:"数组的本质也是对象.md"},p=l("",10),e=[p];function t(c,r,y,C,D,F){return a(),n("div",null,e)}const _=s(o,[["render",t]]);export{i as __pageData,_ as default};

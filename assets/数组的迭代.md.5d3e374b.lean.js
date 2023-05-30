@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.56b4393c.js";const i=JSON.parse('{"title":"数组的迭代","description":"","frontmatter":{},"headers":[],"relativePath":"数组的迭代.md","filePath":"数组的迭代.md"}'),o={name:"数组的迭代.md"},p=l("",4),t=[p];function e(r,c,y,C,D,A){return a(),n("div",null,t)}const f=s(o,[["render",e]]);export{i as __pageData,f as default};

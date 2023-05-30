@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as e}from"./chunks/framework.56b4393c.js";const y=JSON.parse('{"title":"数组元素的默认值","description":"","frontmatter":{},"headers":[],"relativePath":"数组元素的默认值.md","filePath":"数组元素的默认值.md"}'),o={name:"数组元素的默认值.md"},t=e("",3),l=[t];function p(c,r,_,i,d,A){return a(),n("div",null,l)}const D=s(o,[["render",p]]);export{y as __pageData,D as default};

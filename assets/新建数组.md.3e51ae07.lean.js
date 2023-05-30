@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.56b4393c.js";const F=JSON.parse('{"title":"新建数组","description":"","frontmatter":{},"headers":[],"relativePath":"新建数组.md","filePath":"新建数组.md"}'),o={name:"新建数组.md"},p=l("",18),e=[p];function t(r,c,y,A,C,D){return a(),n("div",null,e)}const d=s(o,[["render",t]]);export{F as __pageData,d as default};
