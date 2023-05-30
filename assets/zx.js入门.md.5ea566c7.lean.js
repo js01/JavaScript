@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as t,O as s}from"./chunks/framework.56b4393c.js";const m=JSON.parse('{"title":"zx.js入门","description":"","frontmatter":{},"headers":[],"relativePath":"zx.js入门.md","filePath":"zx.js入门.md"}'),o={name:"zx.js入门.md"},l=s("",11),r=[l];function n(i,c,p,d,h,_){return e(),t("div",null,r)}const x=a(o,[["render",n]]);export{m as __pageData,x as default};
