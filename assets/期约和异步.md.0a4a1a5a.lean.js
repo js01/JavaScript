@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.56b4393c.js";const i=JSON.parse('{"title":"期约和异步","description":"","frontmatter":{},"headers":[],"relativePath":"期约和异步.md","filePath":"期约和异步.md"}'),p={name:"期约和异步.md"},o=l("",45),e=[o];function t(c,r,y,A,C,D){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};
